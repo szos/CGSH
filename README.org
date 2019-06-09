@@ -1,0 +1,3 @@
+* CGSH
+  CGSH is a simple shell, initially written in C, with plans to integrate Guile into it. This is a second whack at integrating Guile with a shell.
+
